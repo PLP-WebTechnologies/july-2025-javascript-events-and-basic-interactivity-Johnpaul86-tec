@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: white;
+  color: black;
+}
+
+.dark-mode {
+  background-color: #121212;
+  color: white;
+}
+
+.counter, .faq, form {
+  margin-top: 20px;
+}
+
+.hidden {
+  display: none;
+}
+
+button {
+  margin: 5px;
+}
